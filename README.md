@@ -5,7 +5,7 @@
 
 - 📩 Reach me at **dennergazevedo@gmail.com**.
 
-- ⚡ **Javascript enthusias.**
+- ⚡ **Javascript enthusiast.**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dennergazevedo&show_icons=true&theme=react)
 
