@@ -24,11 +24,9 @@
 <h3  align="left">Connect with me:</h3>
 
 <p  align="left">
-
-<a  href="https://www.linkedin.com/in/denner-azevedo-6b7b97199/"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="dennerazevedo"  height="30"  width="40" /></a><a  href="https://instagram.com/dennergazevedo"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="dennergazevedo"  height="30"  width="40" /></a>
+<a href="mailto:dennergazevedo@gmail.com" target="_blank" alt="Gmail"><img src="https://camo.githubusercontent.com/4c391a1fc0369f10d31cf2e294bbb7d980716deb6183ebf043ee873cb0f8e662/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4646303030303f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d464630303030266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a616c7661726f2e617261756a6f40616c756e6f2e75666f702e6564752e6272" data-canonical-src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&amp;labelColor=FF0000&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:dennergazevedo@gmail.com" style="max-width:100%;"></a><a href="https://www.linkedin.com/in/dennergazevedo/" target="_blank" alt="Linkedin"><img src="https://camo.githubusercontent.com/76a567af3b0920bf1a921a4735d56d268d38012b21cecf5d9b52f4cf6af3b94d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2fc3a16c7661726f2d626173c3ad6c696f2d3834353734313133352f" data-canonical-src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/dennergazevedo/" style="max-width:100%;"></a>
 </p>
 
-  
 
 <h3  align="left">Languages and Tools:</h3>
 
