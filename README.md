@@ -17,6 +17,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dennergazevedo&show_icons=true&theme=react)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dennergazevedo)](https://git.io/streak-stats)
+
   
 
 <h3  align="left">Connect with me:</h3>
