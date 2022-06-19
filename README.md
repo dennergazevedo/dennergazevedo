@@ -7,7 +7,7 @@
 
   
 
-- 📩 Reach me at ![**dennerazevedo.com.br**](https://dennerazevedo.com.br/).
+- 📩 Reach me at <a href="https://dennerazevedo.com.br/">**dennerazevedo.com.br**</a>.
 
   
 
