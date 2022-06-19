@@ -7,7 +7,7 @@
 
   
 
-- 📩 Reach me at **dennerazevedo.com.br*.
+- 📩 Reach me at **dennerazevedo.com.br**.
 
   
 
