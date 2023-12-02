@@ -3,11 +3,11 @@
 
 <h1  align="center">Hey you 👋, I'm Denner Azevedo.</h1>
 
-- 🚣🏻 I’m currently focus on studying **ReactJS**, **NodeJs**, **Python**, **DjangoRest**.
+- 🚣🏻 I’m currently focus on studying **ReactJS**, **NodeJs**, **Java**, **Springboot**, **Python**, **DjangoRest**.
 
   
 
-- 📩 Reach me at <a href="https://dennerazevedo.com.br/">**dennerazevedo.com.br**</a>.
+- 📩 Reach me at <a href="https://dnnr.dev/">**dennerazevedo.com.br**</a>.
 
   
 
@@ -21,7 +21,7 @@
 
 <h3  align="left">Connect with me:</h3>
 <p  align="left">
-<a href="mailto:dennergazevedo@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/dennergazevedo-gmail-red" data-canonical-src="https://img.shields.io/badge/dennergazevedo-gmail-red" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/dennergazevedo/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" data-canonical-src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" style="max-width:100%;"></a>
+<a href="mailto:me@dnnr.dev" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/me-dnnr.dev-red" data-canonical-src="https://img.shields.io/badge/me-dnnr.dev-red" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/dennergazevedo/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" data-canonical-src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" style="max-width:100%;"></a>
 </p>
 
 
