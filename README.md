@@ -1,27 +1,16 @@
-
-  
-
 <h1  align="center">Hey you 👋, I'm Denner Azevedo.</h1>
 
 - 🚣🏻 I'm currently focused on taking my **Javascript** stack knowledge to another level.
 
-  
-
 - 📩 Reach me at <a href="https://dnnr.dev/">**dnnr.dev**</a>.
-
-  
 
 - ⚡ **Javascript enthusiast.**
 
-  
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dennergazevedo&show_icons=true&theme=react)
 
 <h3  align="left">Connect with me:</h3>
 <p  align="left">
 <a href="mailto:me@dnnr.dev" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/me-dnnr.dev-red" data-canonical-src="https://img.shields.io/badge/me-dnnr.dev-red" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/dnnr/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" data-canonical-src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" style="max-width:100%;"></a>
 </p>
-
 
 <h3  align="left">Languages and Tools:</h3>
 
