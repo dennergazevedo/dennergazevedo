@@ -7,7 +7,7 @@
 
   
 
-- 📩 Reach me at <a href="https://dnnr.dev/">**dennerazevedo.com.br**</a>.
+- 📩 Reach me at <a href="https://dnnr.dev/">**dnnr.dev**</a>.
 
   
 
