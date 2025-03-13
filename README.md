@@ -2,7 +2,7 @@
 
 - 🚣🏻 I'm currently focused on taking my **Javascript** stack knowledge to another level.
 
-- 📩 Reach me at <a href="https://social.dnnr.dev/">**social.dnnr.dev**</a>.
+- 📩 Reach me at <a href="https://social.dnnr.dev/">**dnnr.dev**</a>.
 
 - ⚡ **Javascript enthusiast.**
 
