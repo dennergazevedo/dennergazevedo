@@ -60,5 +60,5 @@ A MicroSaaS that recommends books using AI:
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnnr&show_icons=true&theme=radical" alt="Denner's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dennergazevedo&show_icons=true&theme=radical" alt="Denner's GitHub Stats" />
 </p>
