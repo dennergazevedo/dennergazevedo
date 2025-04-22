@@ -7,6 +7,24 @@ A MicroSaaS that connects <strong>AI</strong> and <strong>literature</strong> to
 
 ---
 
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://dnnr.dev" target="_blank">
+    <img src="https://img.shields.io/badge/website-dnnr.dev-green" alt="Website" />
+  </a>
+  
+  <a href="mailto:me@dnnr.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Email-me@dnnr.dev-red" alt="Email" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/dnnr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-dnnr-blue" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
 ### 🧠 Expertise
 
 - 🛒 **E-commerce & Performance**: Lead developer on platforms like <strong>hering.com.br</strong>, with a focus on Core Web Vitals, SEO, and scalable architecture.
@@ -23,7 +41,6 @@ A MicroSaaS that recommends books using AI:
 
 - ✨ Personalized literary suggestions
 - 🧠 Smart summaries & reader profiles
-- 🎯 Monetized via affiliate links
 - 🤖 AI-powered literary consulting
 
 👉 [bibliotecasecreta.com.br](https://bibliotecasecreta.com.br)
@@ -35,30 +52,3 @@ A MicroSaaS that recommends books using AI:
 - ⚡ **JavaScript**  
 - ⚡ **Java**  
 - ⚡ **Python**  
-
----
-
-### 📩 Reach Me
-
-- 🌐 Website: [**dnnr.dev**](https://dnnr.dev)
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="mailto:me@dnnr.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-me@dnnr.dev-red" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/dnnr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-dennergazevedo-blue" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennergazevedo&show_icons=true&theme=radical" alt="Denner's GitHub Stats" />
-</p>
