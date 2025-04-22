@@ -12,7 +12,7 @@
 <a href="mailto:me@dnnr.dev" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/me-dnnr.dev-red" data-canonical-src="https://img.shields.io/badge/me-dnnr.dev-red" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/dnnr/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" data-canonical-src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" style="max-width:100%;"></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennergazevedo)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennergazevedo&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="alvarobasia" /></a> </p>
 
 <h3  align="left">Languages and Tools:</h3>
 
