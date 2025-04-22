@@ -1,15 +1,33 @@
-<h1  align="center">Hey you 👋, I'm Denner Azevedo.</h1>
+<h1 align="center">Hey you 👋, I'm Denner Azevedo</h1>
 
-- 🚀 Currently working as Tech Lead at Cia Hering (AZZA3) and Founder of Biblioteca Secreta, a MicroSaaS that connects AI and literature.
+<p align="center">
+🚀 Tech Lead at <strong>Cia Hering (AZZA3)</strong> & Founder of <strong>Biblioteca Secreta</strong><br/>
+A MicroSaaS that merges <strong>AI</strong> and <strong>literature</strong> to enhance the reading experience.
+</p>
 
-- 📩 Reach me at <a href="https://dnnr.dev/">**dnnr.dev**</a>.
+---
 
-- ⚡ **Javascript**
-- ⚡ **Java**
-- ⚡ **Python**
+### 🚀 Tech Stack Highlights
 
+- ⚡ **JavaScript**  
+- ⚡ **Java**  
+- ⚡ **Python**  
 
-<h3  align="left">Connect with me:</h3>
-<p  align="left">
-<a href="mailto:me@dnnr.dev" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/me-dnnr.dev-red" data-canonical-src="https://img.shields.io/badge/me-dnnr.dev-red" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/dnnr/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" data-canonical-src="https://img.shields.io/badge/dennergazevedo-Linkedin-blue" style="max-width:100%;"></a>
+---
+
+### 📩 Reach Me
+
+- 🌐 Website: [**dnnr.dev**](https://dnnr.dev)
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="mailto:me@dnnr.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Email-me@dnnr.dev-red" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/dnnr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-dennergazevedo-blue" alt="LinkedIn" />
+  </a>
 </p>
