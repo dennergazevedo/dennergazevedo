@@ -21,6 +21,10 @@ A MicroSaaS that connects <strong>AI</strong> and <strong>literature</strong> to
   <a href="https://www.linkedin.com/in/dnnr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-dnnr-blue" alt="LinkedIn" />
   </a>
+  
+  <a href="https://www.youtube.com/@devdenegociosmg" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-devdenegociosmg-red?logo=youtube" alt="Youtube" />
+  </a>
 </p>
 
 ---
