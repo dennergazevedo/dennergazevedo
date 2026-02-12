@@ -1,7 +1,7 @@
 <h1 align="center">Hey you 👋, I'm Denner Azevedo</h1>
 
 <p align="center">
-🚀 <strong>Tech Lead at Cia Hering (AZZA3)</strong> & <strong>Founder of Biblioteca Secreta</strong><br/>
+🚀 <strong>Tech Lead at Skelt</strong> & <strong>Founder of Biblioteca Secreta</strong><br/>
 A MicroSaaS that connects <strong>AI</strong> and <strong>literature</strong> to transform the reading experience.
 </p>
 
