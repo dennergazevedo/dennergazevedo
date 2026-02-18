@@ -50,6 +50,18 @@ A MicroSaaS that recommends books using AI:
 👉 [bibliotecasecreta.com.br](https://bibliotecasecreta.com.br)
 
 ---
+### 🧪 Divisor
+
+Edge-native A/B testing:
+
+- 🌎 Edge-native
+- 🔓 Open source
+- 🧠 Deterministic traffic splitting
+- 📈 Built for scale
+
+👉 [divisor.dev](https://divisor.dev)
+
+---
 
 ### 🚀 Tech Stack Highlights
 
