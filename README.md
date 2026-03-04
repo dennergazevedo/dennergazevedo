@@ -48,11 +48,3 @@ Edge-native A/B testing:
 - 📈 Built for scale
 
 👉 [divisor.dev](https://divisor.dev)
-
----
-
-### 🚀 Tech Stack Highlights
-
-- ⚡ **JavaScript**  
-- ⚡ **Java**  
-- ⚡ **Python**  
