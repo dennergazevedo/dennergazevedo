@@ -38,18 +38,6 @@ A MicroSaaS that connects <strong>AI</strong> and <strong>literature</strong> to
 - 💡 **Developer Experience**: Internal tooling, clean code practices, performance monitoring, and strong documentation culture.
 
 ---
-
-### 📚 Biblioteca Secreta
-
-A MicroSaaS that recommends books using AI:
-
-- ✨ Personalized literary suggestions
-- 🧠 Smart summaries & reader profiles
-- 🤖 AI-powered literary consulting
-
-👉 [bibliotecasecreta.com.br](https://bibliotecasecreta.com.br)
-
----
 ### 🧪 Divisor
 
 Edge-native A/B testing:
